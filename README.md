@@ -46,7 +46,7 @@ Background in Computer Science and Finance (MBA - Sorbonne Université Paris)
 </div>
 
 ### **Backend & Distributed Systems**
-- Java 11+, Spring Boot  
+- Java 21, Spring Boot  
 - Node.js (Express, NestJS)  
 - Microservices & Distributed Architecture  
 - RabbitMQ, Pub/Sub, Event-driven workflows  
