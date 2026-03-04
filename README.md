@@ -1,19 +1,16 @@
 
 # 👋 Hi, I'm **Amar Pai Fondekar**
 
-### **Technical Leader | Senior Software Engineer | FinTech & Cloud Systems | TOGAF® / AWS / Azure Certified**
+### **Technical Leader at Société Générale Paris |  FinTech & Cloud Systems | TOGAF® / AWS / Azure Certified**
 
 ---
 
 ## 🚀 About Me  
-I’m a **Technical Lead & Senior Software Engineer** with **14+ years of professional experience** designing, building, and scaling enterprise-grade systems across **FinTech and Banking**, including high‑volume automation platforms and cloud-native architectures.  
-I currently work as a Senior Software Engineer at **MyWhoosh**, where I use **Java 11, Node.js, React.js, RabbitMQ, ElasticSearch (ELK), and MongoDB** to build performant and innovative systems.  
-[1](https://devicon.dev/)
+I’m a **Technical Lead & Senior Software Engineer** with **14+ years of professional experience** designing, building, and scaling enterprise-grade systems across **FinTech and Banking**, including high‑volume automation platforms and cloud-native architectures.
 
 Previously, I’ve held several leadership and engineering roles at **Société Générale**, **Intel**, and **Persistent Systems**, contributing to large-scale distributed systems, operational transformation, and cloud modernization.  
-[1](https://devicon.dev/)[2](https://github.com/devicons/devicon)
 
-My background spans the full lifecycle of architecture, development, deployment, optimization, and team collaboration.
+Background in Computer Science and Finance (MBA - Sorbonne Université Paris)
 
 ---
 
