@@ -1,12 +1,49 @@
-# Amar Pai Fondekar
 
+# 👋 Hi, I'm **Amar Pai Fondekar**
 
-## 💫 About Me
+### **Technical Leader | Senior Software Engineer | FinTech & Cloud Systems | TOGAF® / AWS / Azure Certified**
 
-- 🔭 Currently working at Societe Generale - Transforming high volume Banking Operations with ☁️Cloud and AI 
-- 💻 Specializing in full-stack development, data engineering, and cloud-based solutions
-- 🎓 Background in Astronomy, Astrophysics and Data Science — passionate about integrating science with software engineering
-- 🌱 Continuously expanding knowledge in Kubernetes, CI/CD, and ETL Pipelines
+---
+
+## 🚀 About Me  
+I’m a **Technical Lead & Senior Software Engineer** with **14+ years of professional experience** designing, building, and scaling enterprise-grade systems across **FinTech and Banking**, including high‑volume automation platforms and cloud-native architectures.  
+I currently work as a Senior Software Engineer at **MyWhoosh**, where I use **Java 11, Node.js, React.js, RabbitMQ, ElasticSearch (ELK), and MongoDB** to build performant and innovative systems.  
+[1](https://devicon.dev/)
+
+Previously, I’ve held several leadership and engineering roles at **Société Générale**, **Intel**, and **Persistent Systems**, contributing to large-scale distributed systems, operational transformation, and cloud modernization.  
+[1](https://devicon.dev/)[2](https://github.com/devicons/devicon)
+
+My background spans the full lifecycle of architecture, development, deployment, optimization, and team collaboration.
+
+---
+
+## 🔧 Core Technical Skills
+
+### **Backend & Distributed Systems**
+- Java 11+, Spring Boot  
+- Node.js (Express, NestJS)  
+- Microservices & Distributed Architecture  
+- RabbitMQ, Pub/Sub, Event-driven workflows  
+- REST APIs & GraphQL
+
+### **Frontend Engineering**
+- React.js  
+- JavaScript / TypeScript
+
+### **Data & Observability**
+- MongoDB  
+- Elasticsearch + Kibana (ELK Stack)  
+- Log processing & distributed tracing
+
+### **Cloud & DevOps**
+- Azure & AWS Cloud (Certified)  
+- CI/CD Pipelines  
+- Containers & Cloud Deployment
+
+### **Architecture**
+- TOGAF® Certified Enterprise Architecture  
+- High-volume Banking Systems  
+- Resilient, Cloud-native Design  
 
 
 ## 🛠️ Tech Stack
