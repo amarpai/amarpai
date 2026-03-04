@@ -43,6 +43,8 @@ Background in Computer Science and Finance (MBA - Sorbonne Université Paris)
   <img width="12" />
 </div>
 
+## 🛠️ Tech Stack
+
 ### **Backend & Distributed Systems**
 - Java 21, Spring Boot  
 - Node.js (Express, NestJS)  
@@ -68,8 +70,6 @@ Background in Computer Science and Finance (MBA - Sorbonne Université Paris)
 - TOGAF® Certified Enterprise Architecture  
 - High-volume Banking Systems  
 - Resilient, Cloud-native Design  
-
-## 🛠️ Tech Stack
 
 ### 🖥️ Development Environment
   
