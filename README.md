@@ -12,7 +12,7 @@
 ## 🛠️ Tech Stack
 
 ### 🐧 Operating System
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo" />
 </div>
 
@@ -78,8 +78,13 @@
 </div>
 
 ### 🖥️ Development Environment
+
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo" />
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg
+  <img width="12" />
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg
+</div>
+<div align="left">
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
 </div>
