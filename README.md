@@ -3,8 +3,6 @@
 
 ### **Technical Leader  |  FinTech & Cloud Systems | TOGAF® / AWS / Azure Certified**
 
----
-
 ## 💫 About Me
 
 - 🔭 Currently working at at Société Générale Paris - Transforming high volume Banking Operations with ☁️Cloud and AI Agents 🤖
