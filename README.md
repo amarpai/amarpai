@@ -1,16 +1,17 @@
 
 # 👋 Hi, I'm **Amar Pai Fondekar**
 
-### **Technical Leader at Société Générale Paris |  FinTech & Cloud Systems | TOGAF® / AWS / Azure Certified**
+### **Technical Leader  |  FinTech & Cloud Systems | TOGAF® / AWS / Azure Certified**
 
 ---
 
-## 🚀 About Me  
-I’m a **Technical Lead & Senior Software Engineer** with **10+ years of professional experience** designing, building, and scaling enterprise-grade systems across **FinTech and Banking**, including high‑volume automation platforms and cloud-native architectures.
+## 💫 About Me
 
-Previously, I’ve held several leadership and engineering roles at **Société Générale**, **Intel**, and **Persistent Systems**, contributing to large-scale distributed systems, operational transformation, and cloud modernization.  
+- 🔭 Currently working at at Société Générale Paris - Transforming high volume Banking Operations with ☁️Cloud and AI Agents 🤖
+- 💻 Specializing in full-stack development and cloud-based solutions
+- 🎓 Background in Computer Science and Finance (MBA - Sorbonne Université Paris)
+- 🌱 Continuously expanding knowledge on Kubernetes and AI Agents
 
-Background in Computer Science and Finance (MBA - Sorbonne Université Paris)
 
 ---
 
