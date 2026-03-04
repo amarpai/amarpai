@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me  
-I’m a **Technical Lead & Senior Software Engineer** with **14+ years of professional experience** designing, building, and scaling enterprise-grade systems across **FinTech and Banking**, including high‑volume automation platforms and cloud-native architectures.
+I’m a **Technical Lead & Senior Software Engineer** with **10+ years of professional experience** designing, building, and scaling enterprise-grade systems across **FinTech and Banking**, including high‑volume automation platforms and cloud-native architectures.
 
 Previously, I’ve held several leadership and engineering roles at **Société Générale**, **Intel**, and **Persistent Systems**, contributing to large-scale distributed systems, operational transformation, and cloud modernization.  
 
