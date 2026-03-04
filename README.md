@@ -23,8 +23,6 @@ Background in Computer Science and Finance (MBA - Sorbonne Université Paris)
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=heroku" height="40" alt="heroku logo" />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="40" alt="terraform logo" />
   <img width="12" />
   <img src="https://www.itcon-inc.com/sites/default/files/2021-03/togaf%20logo.png" height="40" alt="TOGAF logo" />
