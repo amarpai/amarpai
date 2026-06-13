@@ -45,8 +45,7 @@
 ## 🛠️ Tech Stack
 
 ### **Backend & Distributed Systems**
-- Java 21, Spring Boot  
-- Node.js (Express, NestJS)  
+- Java 21, Python
 - Microservices & Distributed Architecture  
 - RabbitMQ, Pub/Sub, Event-driven workflows  
 - REST APIs & GraphQL
