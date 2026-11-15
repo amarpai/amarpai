@@ -18,7 +18,7 @@
 
 ## 🧠 What I'm working on
 
-- 🏦 **Société Générale, Paris**: transforming high-volume banking operations with **Claude-powered AI agents** and cloud-native platforms
+- 🏦 **Société Générale, Paris**: transforming high-volume banking operations and cloud-native platforms
 - 🔎 Designing **enterprise RAG systems**: document ingestion, hybrid search, re-ranking, grounded answers with citations
 - 🤖 Building **agentic workflows** with tool use, MCP servers, and human-in-the-loop controls for regulated environments
 - 🧪 Making LLM apps measurable: **retrieval and answer evaluation**, guardrails, observability, and cost/latency tuning
