@@ -5,7 +5,7 @@
 
 ## 💫 About Me
 
-- 🔭 Currently working at at Société Générale Paris - Transforming high volume Banking Operations with ☁️Cloud and AI Agents 🤖
+- 🔭 Currently working at at Société Générale Paris - Transforming high volume Banking Operations with ☁️Cloud and Claude AI Agents 🤖
 - 💻 Specializing in full-stack development and cloud-based solutions
 - 🎓 Background in Computer Science and Finance (MBA - Sorbonne Université Paris)
 - 🌱 Continuously expanding knowledge on Kubernetes and AI Agents
