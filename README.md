@@ -1,83 +1,113 @@
+<h1 align="center">Hi, I'm Amar Pai Fondekar 👋</h1>
 
-# 👋 Hi, I'm **Amar Pai Fondekar**
+<h3 align="center">AI Engineer · RAG & Agentic Systems · Cloud Architect</h3>
 
-### **Technical Leader  |  FinTech & Cloud Systems | TOGAF® / AWS / Azure Certified**
+<p align="center">
+  I build production-grade <b>Retrieval-Augmented Generation</b> pipelines and <b>LLM agents</b><br/>
+  for high-volume, regulated banking operations, on top of resilient cloud-native architecture.
+</p>
 
-## 💫 About Me
-
-- 🔭 Currently working at at Société Générale Paris - Transforming high volume Banking Operations with ☁️Cloud and Claude AI Agents 🤖
-- 💻 Specializing in full-stack development and cloud-based solutions
-- 🎓 Background in Computer Science and Finance (MBA - Sorbonne Université Paris)
-- 🌱 Continuously expanding knowledge on Kubernetes and AI Agents
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Executive%20MBA-Sorbonne%20Université-0B2A4A?style=for-the-badge" alt="Executive MBA Sorbonne" />
+  <img src="https://img.shields.io/badge/TOGAF®-Certified-1F6FB2?style=for-the-badge" alt="TOGAF Certified" />
+  <img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Certified" />
+  <img src="https://img.shields.io/badge/Azure-Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Certified" />
+</p>
 
 ---
 
-## 🔧 Core Technical Skills
+## 🧠 What I'm working on
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude/default.svg" height="40" alt="claude-code logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude-code/default.svg" height="40" alt="claude-code logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="40" alt="terraform logo" />
-  <img width="12" />
-  <img src="https://www.itcon-inc.com/sites/default/files/2021-03/togaf%20logo.png" height="40" alt="TOGAF logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure logo" />
-</div>
+- 🏦 **Société Générale, Paris**: transforming high-volume banking operations with **Claude-powered AI agents** and cloud-native platforms
+- 🔎 Designing **enterprise RAG systems**: document ingestion, hybrid search, re-ranking, grounded answers with citations
+- 🤖 Building **agentic workflows** with tool use, MCP servers, and human-in-the-loop controls for regulated environments
+- 🧪 Making LLM apps measurable: **retrieval and answer evaluation**, guardrails, observability, and cost/latency tuning
+- 🖥️ Exploring **self-hosted open-weight LLMs** for data-sovereign deployments ([glm-self-hosting-blueprint](https://github.com/amarpai/glm-self-hosting-blueprint))
 
-### 💻 Programming Languages
+## 🎓 Education & Certifications
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+| | |
+|---|---|
+| 🎓 **Executive MBA** | Sorbonne Université, Paris |
+| 💻 **Computer Science** | Engineering background |
+| 🏛️ **TOGAF®** | Enterprise Architecture |
+| ☁️ **AWS & Azure** | Cloud certifications |
+
+---
+
+## 🔍 RAG & AI Engineering Stack
+
+```text
+ Documents ─▶ Parse & Chunk ─▶ Embed ─▶ Vector + Keyword Index
+                                              │
+ User query ─▶ Rewrite ─▶ Hybrid Retrieve ─▶ Re-rank ─▶ LLM (grounded) ─▶ Answer + Citations
+                                                            │
+                                         Evals · Guardrails · Tracing · Cost tracking
+```
+
+| Layer | Tools |
+|---|---|
+| **LLMs** | Claude (Anthropic API), open-weight models (GLM, Llama, Mistral), vLLM / Ollama |
+| **Agents** | Claude Agent SDK, tool use / function calling, MCP (Model Context Protocol), LangGraph |
+| **Orchestration** | LangChain, LlamaIndex |
+| **Retrieval** | Hybrid search (BM25 + dense), re-rankers, query rewriting, metadata filtering |
+| **Vector stores** | Elasticsearch, pgvector, Qdrant, Chroma |
+| **Embeddings** | Voyage AI, OpenAI-compatible and open-source embedding models |
+| **Evaluation** | RAGAS, LLM-as-judge, golden datasets, regression evals |
+| **Observability** | Langfuse / OpenTelemetry tracing, ELK stack |
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude/default.svg" height="40" alt="Claude" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/python/default.svg" height="40" alt="Python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude-code/default.svg" height="40" alt="Claude Code" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="40" alt="LangChain" />
   <img width="12" />
-</div>
-
-## 🛠️ Tech Stack
-
-### **Backend & Distributed Systems**
-- Java 21, Python
-- Microservices & Distributed Architecture  
-- RabbitMQ, Pub/Sub, Event-driven workflows  
-- REST APIs & GraphQL
-
-### **Frontend Engineering**
-- React.js  
-- JavaScript / TypeScript
-
-### **Data & Observability**
-- MongoDB  
-- Elasticsearch + Kibana (ELK Stack)  
-- Log processing & distributed tracing
-
-### **Cloud & DevOps**
-- Azure & AWS Cloud (Certified)  
-- CI/CD Pipelines  
-- Containers & Cloud Deployment
-
-### **Architecture**
-- TOGAF® Certified Enterprise Architecture  
-- High-volume Banking Systems  
-- Resilient, Cloud-native Design  
-
-### 🖥️ Development Environment
-  
-</div>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="vscode logo" />
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="40" alt="Hugging Face" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="vscode logo" />
+  <img src="https://cdn.simpleicons.org/elasticsearch/005571" height="40" alt="Elasticsearch" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
-</div>
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="FastAPI" />
+</p>
+
+## ☁️ Platform & Engineering
+
+| Area | Stack |
+|---|---|
+| **Languages** | Python, Java 21, TypeScript / JavaScript |
+| **Backend** | Microservices, REST & GraphQL, event-driven (RabbitMQ, Pub/Sub) |
+| **Data** | MongoDB, PostgreSQL, Elasticsearch + Kibana |
+| **Cloud & DevOps** | AWS, Azure, Kubernetes, Docker, Terraform, CI/CD |
+| **Architecture** | TOGAF® enterprise architecture, resilient high-volume banking systems |
+| **Frontend** | React.js |
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,terraform,java,ts,react,mongodb,vscode,idea" height="40" alt="Platform stack" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | What it is |
+|---|---|
+| 🖥️ [**glm-self-hosting-blueprint**](https://github.com/amarpai/glm-self-hosting-blueprint) | Blueprint for self-hosting an open-weight GLM model for private, data-sovereign LLM workloads |
+| 🔊 [**Sound-Recognition**](https://github.com/amarpai/Sound-Recognition) | Sound classification with deep learning |
+| 🃏 [**Gravity**](https://github.com/amarpai/Gravity) | Planning Poker for agile estimation with JIRA integration |
+
+## 💡 Focus areas
+
+> **Trustworthy AI in regulated industries.** I care about grounded answers, auditability, data privacy, and evaluation-driven development, so LLM systems can move from demo to production in banking.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amarpai&show_icons=true&hide_border=true&count_private=true" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarpai&layout=compact&hide_border=true" height="160" alt="Top languages" />
+</p>
+
+<p align="center"><i>"The danger isn't that machines will rule. The danger is forgetting who programmed the rulers."</i></p>
