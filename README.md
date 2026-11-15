@@ -95,6 +95,7 @@
 
 | Project | What it is |
 |---|---|
+| ⚖️ [**gpt-decision-api**](https://github.com/amarpai/gpt-decision-api) | Structured, auditable business decisions with GPT: Structured Outputs, code-enforced hard rules, confidence guardrails and audit logs (loan triage, fraud screening, ticket routing) |
 | 🖥️ [**glm-self-hosting-blueprint**](https://github.com/amarpai/glm-self-hosting-blueprint) | Blueprint for self-hosting an open-weight GLM model for private, data-sovereign LLM workloads |
 | 🔊 [**Sound-Recognition**](https://github.com/amarpai/Sound-Recognition) | Sound classification with deep learning |
 | 🃏 [**Gravity**](https://github.com/amarpai/Gravity) | Planning Poker for agile estimation with JIRA integration |
