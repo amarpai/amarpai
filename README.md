@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Amar Pai Fondekar 👋</h1>
 
-<h3 align="center"> Where Ideas Become Intelligent Products: Building with Claude</h3>
+<h3 align="center"> Where Ideas Become Intelligent Products: Building and Evaluation of LLM</h3>
 
 <p align="center">
   I build production-grade <b>Retrieval-Augmented Generation</b> pipelines and <b>LLM agents</b><br/>
