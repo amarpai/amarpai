@@ -103,12 +103,3 @@
 ## 💡 Focus areas
 
 > **Trustworthy AI in regulated industries.** I care about grounded answers, auditability, data privacy, and evaluation-driven development, so LLM systems can move from demo to production in banking.
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amarpai&show_icons=true&hide_border=true&count_private=true" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarpai&layout=compact&hide_border=true" height="160" alt="Top languages" />
-</p>
-
-<p align="center"><i>"The danger isn't that machines will rule. The danger is forgetting who programmed the rulers."</i></p>
