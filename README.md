@@ -3,7 +3,7 @@
 <h3 align="center"> Where Ideas Become Intelligent Products (LLM + Harness Engineering + Evals) - ADLC</h3>
 
 <p align="center">
-  I build production-grade <b>Retrieval-Augmented Generation</b> pipelines and <b>LLM agents</b><br/>
+  I build production-grade products and <b>LLM agents</b><br/>
   for high-volume, regulated banking operations, on top of resilient cloud-native architecture.
 </p>
 
