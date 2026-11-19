@@ -48,12 +48,12 @@
 | Layer | Tools |
 |---|---|
 | **LLMs** | Claude (Anthropic API), open-weight models (GLM, Llama, Mistral), vLLM / Ollama |
-| **Agents** | Claude Agent SDK, tool use / function calling, MCP (Model Context Protocol), LangGraph |
+| **Agents** | Claude Agent SDK, tool use / function calling, MCP (Model Context Protocol) |
 | **Orchestration** | LangChain |
-| **Retrieval** | Hybrid search (BM25 + dense), re-rankers, query rewriting, metadata filtering |
+| **Retrieval** | Hybrid search (BM25 + dense), re-rankers |
 | **Vector stores** | Elasticsearch, pgvector, Qdrant, Chroma |
-| **Embeddings** | Voyage AI, OpenAI-compatible and open-source embedding models |
-| **Evaluation** | RAGAS, LLM-as-judge, golden datasets, regression evals |
+| **Embeddings** | OpenAI-compatible and open-source embedding models |
+| **Evaluation** | LLM-as-judge, golden datasets, regression evals |
 | **Observability** | Langfuse / OpenTelemetry tracing, ELK stack |
 
 <p align="left">
