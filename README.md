@@ -35,7 +35,7 @@
 
 ---
 
-## 🔍 RAG & AI Engineering Stack
+## 🔍 Harness Engineering Stack
 
 ```text
  Documents ─▶ Parse & Chunk ─▶ Embed ─▶ Vector + Keyword Index
