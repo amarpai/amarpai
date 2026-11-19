@@ -49,7 +49,7 @@
 |---|---|
 | **LLMs** | Claude (Anthropic API), open-weight models (GLM, Llama, Mistral), vLLM / Ollama |
 | **Agents** | Claude Agent SDK, tool use / function calling, MCP (Model Context Protocol), LangGraph |
-| **Orchestration** | LangChain, LlamaIndex |
+| **Orchestration** | LangChain |
 | **Retrieval** | Hybrid search (BM25 + dense), re-rankers, query rewriting, metadata filtering |
 | **Vector stores** | Elasticsearch, pgvector, Qdrant, Chroma |
 | **Embeddings** | Voyage AI, OpenAI-compatible and open-source embedding models |
