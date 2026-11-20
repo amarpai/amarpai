@@ -34,9 +34,7 @@
 | ☁️ **AWS & Azure** | Cloud certifications |
 
 ---
-
-<img width="1360" height="900" alt="harness-agentic-rag" src="https://github.com/user-attachments/assets/b3d6eba6-b59e-4cc8-88a4-66be33ad6360" />
-
+## 🔍 Harness Engineering Stack
 
 | Layer | Tools |
 |---|---|
@@ -66,6 +64,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="FastAPI" />
 </p>
+
+<img width="900" height="600" alt="harness-agentic-rag" src="https://github.com/user-attachments/assets/b3d6eba6-b59e-4cc8-88a4-66be33ad6360" />
+
+
 
 ## ☁️ Platform & Engineering
 
