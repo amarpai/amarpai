@@ -37,7 +37,7 @@
 
 ## 🔍 Harness Engineering Stack
 
-<img width="1266" height="1250" alt="image" src="https://github.com/user-attachments/assets/e01d681b-2e71-4284-9b5d-542417ac4750" />
+<img width="1266" height="694" alt="image" src="https://github.com/user-attachments/assets/44009b94-f3cc-4012-afd9-f21db155435f" />
 
 
 | Layer | Tools |
