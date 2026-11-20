@@ -35,9 +35,7 @@
 
 ---
 
-## 🔍 Harness Engineering Stack
-
-<img width="1360" height="900" alt="image" src="https://github.com/user-attachments/assets/8730fc88-eea6-4d01-996d-f3c2bd9e63a2" />
+<img width="1360" height="900" alt="harness-agentic-rag" src="https://github.com/user-attachments/assets/b3d6eba6-b59e-4cc8-88a4-66be33ad6360" />
 
 
 | Layer | Tools |
