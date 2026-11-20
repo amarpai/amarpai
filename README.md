@@ -37,13 +37,8 @@
 
 ## 🔍 Harness Engineering Stack
 
-```text
- Documents ─▶ Parse & Chunk ─▶ Embed ─▶ Vector + Keyword Index
-                                              │
- User query ─▶ Rewrite ─▶ Hybrid Retrieve ─▶ Re-rank ─▶ LLM (grounded) ─▶ Answer + Citations
-                                                            │
-                                         Evals · Guardrails · Tracing · Cost tracking
-```
+<img width="1266" height="1250" alt="image" src="https://github.com/user-attachments/assets/e01d681b-2e71-4284-9b5d-542417ac4750" />
+
 
 | Layer | Tools |
 |---|---|
