@@ -19,7 +19,7 @@
 ## 🧠 What I'm working on
 
 - 🏦 **Société Générale, Paris**: transforming high-volume banking operations and cloud-native platforms
-- 🔎 Designing **Agentic RAG systems with subagents** 
+- 🔎 Designing **Agentic RAG systems with subagents and Agent swarm** 
 - 🤖 Building **agentic workflow** with tool use, MCP servers, and human-in-the-loop controls for regulated environments
 - 🧪 Making LLM apps measurable: **retrieval and answer evaluation**, guardrails, observability, and cost/latency tuning
 - 🖥️ Exploring **self-hosted open-weight LLMs** for data-sovereign deployments ([glm-self-hosting-blueprint](https://github.com/amarpai/glm-self-hosting-blueprint))
