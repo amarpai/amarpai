@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Amar Pai Fondekar 👋</h1>
 
-<h3 align="center"> Where Ideas Become Intelligent Products (LLM + Harness Engineering + Evals) - ADLC</h3>
+<h3 align="center"> Turning Ideas into Intelligent Products (LLM + Harness Engineering + Evals) - ADLC</h3>
 
 <p align="center">
   I build production-grade products and <b>LLM agents</b><br/>
